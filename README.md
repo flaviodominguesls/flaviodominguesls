@@ -18,6 +18,10 @@ Atualmente, sou aluno de Ciências da Computação pela Universidade Federal de 
 ### 📫 Meus Contatos
 
 <p align="left">
-  <a href="www.linkedin.com/in/flávio-domingues" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Flávio"/></a>
-  <a href="mailto:flavio.dls2015@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Flávio"/></a>
+  <a href="https://www.linkedin.com/in/flávio-domingues">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Flávio"/>
+  </a>
+  <a href="mailto:flavio.dls2015@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Flávio"/>
+  </a>
 </p>
